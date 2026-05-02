@@ -1,0 +1,13 @@
+baseURL = "https://tfq799qpbn-cmd.github.io/firstweb/"
+languageCode = "zh-Hans"
+theme = "moments"
+paginate = 10
+paginatePath = '.'
+
+[params]
+    title = "microcosm"
+    signature = "为明天的太阳而活！"
+    cover = "cover.jpg"
+
+    name = "哈哈"
+    avatar = "avatar.png"
