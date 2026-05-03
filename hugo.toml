@@ -1,6 +1,7 @@
 baseURL = "https://tfq799qpbn-cmd.github.io/firstweb/"
 languageCode = "zh-Hans"
 theme = "moments"
+themesDir = "themes"
 paginate = 10
 paginatePath = '.'
 
